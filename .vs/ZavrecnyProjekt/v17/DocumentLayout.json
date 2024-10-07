@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\OneDrive\\\u0161koleni IT\\OneDrive\\Plocha\\ZaverecnyProjektV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B124A074-E1DD-483D-88A6-F179E9603E06}|ZavrecnyProjekt\\ZavrecnyProjekt.csproj|c:\\users\\dominik\\onedrive\\\u0161koleni it\\onedrive\\plocha\\zaverecnyprojektv2\\zavrecnyprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B124A074-E1DD-483D-88A6-F179E9603E06}|ZavrecnyProjekt\\ZavrecnyProjekt.csproj|solutionrelative:zavrecnyprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B124A074-E1DD-483D-88A6-F179E9603E06}|ZavrecnyProjekt\\ZavrecnyProjekt.csproj|c:\\users\\dominik\\onedrive\\\u0161koleni it\\onedrive\\plocha\\zaverecnyprojektv2\\zavrecnyprojekt\\pojisteny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B124A074-E1DD-483D-88A6-F179E9603E06}|ZavrecnyProjekt\\ZavrecnyProjekt.csproj|solutionrelative:zavrecnyprojekt\\pojisteny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B124A074-E1DD-483D-88A6-F179E9603E06}|ZavrecnyProjekt\\ZavrecnyProjekt.csproj|c:\\users\\dominik\\onedrive\\\u0161koleni it\\onedrive\\plocha\\zaverecnyprojektv2\\zavrecnyprojekt\\evidencepojistenych.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B124A074-E1DD-483D-88A6-F179E9603E06}|ZavrecnyProjekt\\ZavrecnyProjekt.csproj|solutionrelative:zavrecnyprojekt\\evidencepojistenych.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EvidencePojistenych.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\OneDrive\\\u0161koleni IT\\OneDrive\\Plocha\\ZaverecnyProjektV2\\ZavrecnyProjekt\\EvidencePojistenych.cs",
+              "RelativeDocumentMoniker": "ZavrecnyProjekt\\EvidencePojistenych.cs",
+              "ToolTip": "C:\\Users\\Dominik\\OneDrive\\\u0161koleni IT\\OneDrive\\Plocha\\ZaverecnyProjektV2\\ZavrecnyProjekt\\EvidencePojistenych.cs",
+              "RelativeToolTip": "ZavrecnyProjekt\\EvidencePojistenych.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAgwHsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:27:57.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pojisteny.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\OneDrive\\\u0161koleni IT\\OneDrive\\Plocha\\ZaverecnyProjektV2\\ZavrecnyProjekt\\Pojisteny.cs",
+              "RelativeDocumentMoniker": "ZavrecnyProjekt\\Pojisteny.cs",
+              "ToolTip": "C:\\Users\\Dominik\\OneDrive\\\u0161koleni IT\\OneDrive\\Plocha\\ZaverecnyProjektV2\\ZavrecnyProjekt\\Pojisteny.cs",
+              "RelativeToolTip": "ZavrecnyProjekt\\Pojisteny.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:12:37.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\OneDrive\\\u0161koleni IT\\OneDrive\\Plocha\\ZaverecnyProjektV2\\ZavrecnyProjekt\\Program.cs",
+              "RelativeDocumentMoniker": "ZavrecnyProjekt\\Program.cs",
+              "ToolTip": "C:\\Users\\Dominik\\OneDrive\\\u0161koleni IT\\OneDrive\\Plocha\\ZaverecnyProjektV2\\ZavrecnyProjekt\\Program.cs",
+              "RelativeToolTip": "ZavrecnyProjekt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:11:03.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

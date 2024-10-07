@@ -1,0 +1,42 @@
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.AssemblyInfoInputs.cache
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.AssemblyInfo.cs
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.exe
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.deps.json
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.runtimeconfig.json
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.dll
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.pdb
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.dll
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\obj\Debug\net8.0\refint\ZavrecnyProjekt.dll
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.pdb
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.genruntimeconfig.cache
+C:\Users\Dominik\source\repos\ZavrecnyProjekt\ZavrecnyProjekt\obj\Debug\net8.0\ref\ZavrecnyProjekt.dll
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.exe
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.deps.json
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.runtimeconfig.json
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.dll
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.pdb
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.AssemblyInfoInputs.cache
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.AssemblyInfo.cs
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.csproj.CoreCompileInputs.cache
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.dll
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\refint\ZavrecnyProjekt.dll
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.pdb
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.genruntimeconfig.cache
+C:\Github\Other\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ref\ZavrecnyProjekt.dll
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.exe
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.deps.json
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.runtimeconfig.json
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.dll
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\bin\Debug\net8.0\ZavrecnyProjekt.pdb
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.dll
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\refint\ZavrecnyProjekt.dll
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.pdb
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ZavrecnyProjekt.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive\školeni IT\OneDrive\Plocha\ProjektV2\ZavrecnyProjekt-DON\ZavrecnyProjekt\obj\Debug\net8.0\ref\ZavrecnyProjekt.dll
